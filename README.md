@@ -19,9 +19,14 @@ In summary, there are a total of 7 roles that has 90398 employees who are retiri
 
 Role Count
 
+![Role Count](https://github.com/ssathyanath/Pewlett-Hackard-Analysis/blob/master/z_Images/Retiring_Title_Count.PNG)
 
 Total Employee Reaching Retirement Age
+
+![Employee Count](https://github.com/ssathyanath/Pewlett-Hackard-Analysis/blob/master/z_Images/Total_Ret_Emp.PNG)
 
 There are only 1549 employee who are eligible for mentorship program. This is very less compared to the number of employess who are retiring. A comparison of retiring employee versus employees eligible for mentorship is shown below
 
 Retiring Employee vs Mentorship Eligible Employee Count
+
+![Count Comparison](https://https://github.com/ssathyanath/Pewlett-Hackard-Analysis/blob/master/z_Images/Comparison.PNG)
